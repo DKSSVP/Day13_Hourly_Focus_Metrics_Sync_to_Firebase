@@ -1,0 +1,6 @@
+.venv/
+.env
+firebase-service-account.json
+__pycache__/
+*.py[cod]
+fallback.log
